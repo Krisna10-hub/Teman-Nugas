@@ -98,7 +98,6 @@ class _EditDataProfileState extends State<EditDataProfile> {
                   ),
                   TextField(
                     controller: jenjangController,
-                    keyboardType: TextInputType.number,
                     textAlignVertical: TextAlignVertical.center,
                     textAlign: TextAlign.left,
                     decoration: InputDecoration(
