@@ -98,7 +98,6 @@ class _BantuTemanSDState extends State<BantuTemanSD> {
                   ),
                   TextField(
                     controller: jawabanController,
-                    keyboardType: TextInputType.number,
                     textAlignVertical: TextAlignVertical.center,
                     textAlign: TextAlign.left,
                     decoration: InputDecoration(
